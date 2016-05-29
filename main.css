@@ -32,7 +32,7 @@ table.ingredient-table td{
 }
 
 .banner {
-	text-align: right;
+	text-align: left;
 	width: 95%;
 	
 	padding-right: 1%;
@@ -43,9 +43,11 @@ table.ingredient-table td{
 	background-color: #066BA1;
 
 	background-repeat: no-repeat;
+
+	box-shadow: 10px 1px 5px #033854;
 }
 
-.recipe-photo {
+.recipe-photo { 
 	float: left;
 	margin-right: 10px;
 	margin-bottom: 6px;
