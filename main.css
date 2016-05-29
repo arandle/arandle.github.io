@@ -21,4 +21,8 @@ h2 {
 .banner {
 	text-align: right;
 	width: 100%;
+	padding-left: .95%;
+	background-color: rgb(47, 36, 106);
+	border: 1;
+	border-color: rgb(47, 36, 106);
 }
