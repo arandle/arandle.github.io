@@ -23,7 +23,7 @@ h2 {
 	width: 95%;
 	padding-right: 1%;
 
-	border: 5px solid black;
+	border: 5px dashed black;
 	border-color: #05547F;
 
 	background-repeat: no-repeat;
