@@ -22,12 +22,19 @@ h2 {
 	text-align: right;
 	width: 95%;
 	padding-right: 1%;
-	background-color: rgb(44, 53, 129);
-	
-	border: 1;
-	border-width: 1%;
-	border-color: rgb(47, 36, 106);
 
-	border-right-width: 2%;
-	border-color: rgb(164, 224, 175);
+	border: 5px solid black;
+	border-color: rgb(0, 41, 92);
+
+	background: white;
+	background-color: rgb(0, 69, 153);
+
+	border-right: 10px solid black;
+	border-right-color: rgb(153, 197, 255);
+
+	border-left: 10px solid black;
+	border-left-color: rgb(153, 197, 255);
+}
+
+.banner-border {
 }
