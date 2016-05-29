@@ -10,11 +10,15 @@ h2 {
 	color: white;
 }
 
+.spaghetti-table {
+	background-color: rgb(204, 57, 123);
+}
+
 .pbj-table {
 	background-color: rgb(204, 57, 123);
 }
 
 .banner {
 	text-align: right;
-
+	width: 100%;
 }
