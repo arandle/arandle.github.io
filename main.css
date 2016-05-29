@@ -17,7 +17,7 @@ h2 {
 }
 
 table.ingredient-table th{
-	border: 2px solid #3E7800;
+	border-bottom: 2px solid #3E7800;
 }
 
 .banner {
