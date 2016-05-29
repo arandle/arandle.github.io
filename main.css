@@ -1,13 +1,16 @@
 body {
 	background-color: #00B353;
+	font-family: sans-serif;
 }
 
 h1 {
 	color: #89A4B3;
+	font-family: fantasy;
 }
 
 h2 {
 	color: #CFEBB0;
+	font-family: cursive;
 }
 
 .ingredient-table {
