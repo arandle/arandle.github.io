@@ -14,22 +14,17 @@ h2 {
 	background-color: #3390C2;
 	border: 2px solid #3E7800;
 	border-collapse: collapse;
-	padding-right: 4px;
-	padding-left: 4px;
 }
 
 table.ingredient-table th{
 	border-bottom: 2px solid #3E7800;
 	border-right: 2px solid #3E7800;
-	padding-right: 4px;
-	padding-left: 4px;
+	padding: 10px;
 }
 
 table.ingredient-table td{
 	border-right: 2px solid #3E7800;
-	padding-right: 4px;
-	padding-left: 4px;
-}
+	padding: 10px;
 
 .banner {
 	text-align: right;
