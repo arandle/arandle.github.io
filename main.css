@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(102, 255, 102);
+	background-color: #00B353;
 }
 
 h1 {
@@ -11,11 +11,11 @@ h2 {
 }
 
 .spaghetti-table {
-	background-color: rgb(204, 57, 123);
+	background-color: #3390C2);
 }
 
 .pbj-table {
-	background-color: rgb(204, 57, 123);
+	background-color: #3390C2;
 }
 
 .banner {
@@ -24,7 +24,7 @@ h2 {
 	padding-right: 1%;
 
 	border: 5px solid black;
-	border-color: rgb(0, 41, 92);
+	border-color: #05547F;
 
 	background-repeat: no-repeat;
 }
