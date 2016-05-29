@@ -54,7 +54,8 @@ table.ingredient-table td{
 
 .recipe-list {
 	float: right;
-	width: 20%;
+	width: 30%;
+	margin-left: 10px;
 }
 
 .recipe-photo { 
@@ -65,5 +66,5 @@ table.ingredient-table td{
 }
 
 div.steps {
-	clear: left;
+	clear: both;
 }
