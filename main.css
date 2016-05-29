@@ -52,6 +52,11 @@ table.ingredient-table td{
 	padding-right: 1%;
 }
 
+.recipe-list {
+	float: right;
+	width: 20%;
+}
+
 .recipe-photo { 
 	float: left;
 	margin-right: 10px;
