@@ -14,6 +14,11 @@ h2 {
 	font-family: cursive;
 }
 
+.recipe-tile {
+	background-color: white;
+	box-shadow: 3px 10px 7px #033854;
+}
+
 .ingredient-table {
 	background-color: #92C2A8;
 	border: 2px solid #3E7800;
