@@ -20,6 +20,10 @@ table.ingredient-table th{
 	border-bottom: 2px solid #3E7800;
 }
 
+table.ingredient-table td{
+	border-left: 2px solid #3E7800;
+}
+
 .banner {
 	text-align: right;
 	width: 95%;
