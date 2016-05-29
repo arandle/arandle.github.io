@@ -19,12 +19,12 @@ h2 {
 table.ingredient-table th{
 	border-bottom: 2px solid #3E7800;
 	border-right: 2px solid #3E7800;
-	padding: 4px;
+	padding: 3px;
 }
 
 table.ingredient-table td{
 	border-right: 2px solid #3E7800;
-	padding: 4px;
+	padding: 3px;
 
 .banner {
 	text-align: right;
