@@ -51,9 +51,3 @@ table.ingredient-table td{
 	margin-bottom: 6px;
 	height: 300px;
 }
-
-div.steps {
-	position: relative;
-	top: 120px;
-	bottom: 10px;
-}
