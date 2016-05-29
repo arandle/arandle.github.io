@@ -22,13 +22,12 @@ h2 {
 	text-align: right;
 	width: 100%;
 	padding-right: 1%;
-	background-color: rgb(47, 36, 106);
+	background-color: rgb(200, 194, 234);
 	
 	border: 1;
 	border-width: .25%;
 	border-color: rgb(47, 36, 106);
 
-	border-right: 1;
 	border-right-width: .75%;
 	border-color: rgb(47, 36, 106);
 }
