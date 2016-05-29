@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-	color: #89A4B3;
+	color: #033854;
 	font-family: "papyrus", fantasy;
 	font-variant: small-caps;
 }
@@ -15,7 +15,7 @@ h2 {
 }
 
 .ingredient-table {
-	background-color: #3390C2;
+	background-color: #92C2A8;
 	border: 2px solid #3E7800;
 	border-collapse: collapse;
 }
