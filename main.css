@@ -26,8 +26,7 @@ h2 {
 	border: 5px solid black;
 	border-color: rgb(0, 41, 92);
 
-	background: white;
-	background-color: rgb(0, 69, 153);
+	background-image: url(https://images.atkins.com/spring-recipes.png?w=435&h=306&crop=faces,center,center&fit=crop);
 
 	border-right: 10px solid black;
 	border-right-color: rgb(153, 197, 255);
