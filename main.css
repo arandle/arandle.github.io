@@ -48,7 +48,7 @@ table.ingredient-table td{
 }
 
 .banner-image {
-	align: right;
+	float: right;
 }
 
 .recipe-photo { 
