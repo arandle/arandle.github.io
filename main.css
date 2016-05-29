@@ -18,16 +18,16 @@ h2 {
 	background-color: rgb(204, 57, 123);
 }
 
-.banner {
+table.banner {
 	text-align: right;
-	width: 100%;
+	width: 95%;
 	padding-right: 1%;
-	background-color: rgb(200, 194, 234);
+	background-color: rgb(44, 53, 129));
 	
 	border: 1;
 	border-width: .25%;
 	border-color: rgb(47, 36, 106);
 
 	border-right-width: .75%;
-	border-color: rgb(47, 36, 106);
+	border-color: rgb(164, 224, 175);
 }
