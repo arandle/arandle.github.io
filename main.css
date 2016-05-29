@@ -12,6 +12,7 @@ h1 {
 h2 {
 	color: #CFEBB0;
 	font-family: cursive;
+	clear: left;
 }
 
 .banner {
@@ -34,6 +35,29 @@ h2 {
 	padding-right: 1%;
 }
 
+.menu li{
+	align: left;
+	list-style: none;
+	display: block;
+	float: left;
+	margin-right: 55px;
+	margin-left: -40px;
+	background-color: #005E2B;
+	padding: 4px;
+}
+
+.menu li a {
+	display: block;
+	text-decoration: none;
+	color: #89A4B3;
+	font-size: 1.4em;
+	font-family: "copperplate", fantasy;
+}
+
+.menu li a:hover {
+	background-color: #96EF35
+}
+
 .recipe-list {
 	float: right;
 	width: 20%;
@@ -47,6 +71,10 @@ h2 {
 	padding-left: 6px;
 	padding-right: 6px;
 	padding-bottom: 2px;
+}
+
+.first-tile {
+	margin-top: 70px;
 }
 
 div.recipe-tile h2 {
