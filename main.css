@@ -47,6 +47,10 @@ table.ingredient-table td{
 	box-shadow: 3px 10px 7px #033854;
 }
 
+.banner-image {
+	align: right;
+}
+
 .recipe-photo { 
 	float: left;
 	margin-right: 10px;
