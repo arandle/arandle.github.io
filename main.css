@@ -17,6 +17,8 @@ h2 {
 .recipe-tile {
 	background-color: white;
 	box-shadow: 3px 10px 7px #033854;
+	width: 80%;
+	padding: 4px;
 }
 
 .ingredient-table {
