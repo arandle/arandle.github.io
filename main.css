@@ -13,6 +13,7 @@ h2 {
 .ingredient-table {
 	background-color: #3390C2;
 	border: 2px solid #3E7800;
+	border-collapse: collapse;
 }
 
 table.ingredient-table th{
