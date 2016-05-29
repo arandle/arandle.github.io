@@ -14,32 +14,6 @@ h2 {
 	font-family: cursive;
 }
 
-.recipe-tile {
-	background-color: white;
-	box-shadow: 3px 10px 7px #033854;
-	width: 75%;
-	padding-left: 4px;
-	padding-right: 4px;
-	padding-bottom: 2px;
-}
-
-.ingredient-table {
-	background-color: #92C2A8;
-	border: 2px solid #3E7800;
-	border-collapse: collapse;
-}
-
-table.ingredient-table th{
-	border-bottom: 2px solid #3E7800;
-	border-right: 2px solid #3E7800;
-	padding: 3px;
-}
-
-table.ingredient-table td{
-	border-right: 2px solid #3E7800;
-	padding: 3px;
-}
-
 .banner {
 	text-align: left;
 	width: 100%;
@@ -66,11 +40,41 @@ table.ingredient-table td{
 	margin-left: 10px;
 }
 
+.recipe-tile {
+	background-color: white;
+	box-shadow: 3px 10px 7px #033854;
+	width: 75%;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-bottom: 2px;
+}
+
+div.recipe-tile h2 {
+	color: #05547F;
+}
+
 .recipe-photo { 
 	float: left;
-	margin-right: 20px;
+	margin-right: 40px;
 	margin-bottom: 10px;
 	height: 300px;
+}
+
+.ingredient-table {
+	background-color: #92C2A8;
+	border: 2px solid #3E7800;
+	border-collapse: collapse;
+}
+
+table.ingredient-table th{
+	border-bottom: 2px solid #3E7800;
+	border-right: 2px solid #3E7800;
+	padding: 3px;
+}
+
+table.ingredient-table td{
+	border-right: 2px solid #3E7800;
+	padding: 3px;
 }
 
 .steps {
