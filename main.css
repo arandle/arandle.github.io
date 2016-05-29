@@ -10,7 +10,7 @@ h1 {
 }
 
 h2 {
-	color: #CFEBB0;
+	color: #005E2B;
 	font-family: cursive;
 	clear: left;
 }
@@ -23,7 +23,7 @@ h2 {
 	padding-top: 4px;
 	padding-bottom: 4px;
 
-	background-color: #00B353;
+	background-color: #CFEBB0;
 
 	background-repeat: no-repeat;
 
@@ -42,7 +42,7 @@ h2 {
 	float: left;
 	margin-right: 55px;
 	margin-left: -40px;
-	background-color: #005E2B;
+	background-color: #3E7800;
 	padding: 4px;
 }
 
