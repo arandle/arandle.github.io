@@ -23,11 +23,6 @@ h2 {
 	padding-top: 4px;
 	padding-bottom: 4px;
 
-	/*border: 6px solid #CFEBB0;*/
-
-	/*border-left-width: 15px;*/
-	border-right-width: 15px;
-
 	background-color: white;
 
 	background-repeat: no-repeat;
@@ -47,20 +42,20 @@ h2 {
 	float: left;
 	margin-right: 55px;
 	margin-left: -40px;
-	background-color: #3E7800;
+	background-color: #CFEBB0;
 	padding: 4px;
+}
+
+.menu li:hover {
+	background-color: #96EF35
 }
 
 .menu li a {
 	display: block;
 	text-decoration: none;
-	color: #89A4B3;
+	color: #033854;
 	font-size: 1.4em;
 	font-family: "copperplate", fantasy;
-}
-
-.menu li a:hover {
-	background-color: #96EF35
 }
 
 .recipe-list {
